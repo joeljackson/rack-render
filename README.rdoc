@@ -1,0 +1,4 @@
+= rack-render
+
+A rack middleware to allow rendering of dynamic content in the rack layer when getting crawled for better indexing by the googlebot and co.
+
